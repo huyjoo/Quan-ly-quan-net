@@ -1,0 +1,3 @@
+Thay chuổi kết nối sql mới vào các from
+Lưu ý: fromChoiGame có 2 chuổi kết nối ở dòng số 18 và 50, còn lại các from chỉ có 1 chuổi kết nối.
+Tài khoản và  mật khẩu là admin

@@ -1,0 +1,89 @@
+C:\Users\WIN KIET VO\Documents\QLQuanNet\QLQuanNet\bin\Debug\QLQuanNet.exe.config
+C:\Users\WIN KIET VO\Documents\QLQuanNet\QLQuanNet\bin\Debug\QLQuanNet.exe
+C:\Users\WIN KIET VO\Documents\QLQuanNet\QLQuanNet\bin\Debug\QLQuanNet.pdb
+C:\Users\WIN KIET VO\Documents\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.csproj.AssemblyReference.cache
+C:\Users\WIN KIET VO\Documents\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.Properties.Resources.resources
+C:\Users\WIN KIET VO\Documents\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.csproj.GenerateResource.cache
+C:\Users\WIN KIET VO\Documents\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.csproj.CoreCompileInputs.cache
+C:\Users\WIN KIET VO\Documents\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.exe
+C:\Users\WIN KIET VO\Documents\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.pdb
+C:\Users\WIN KIET VO\Documents\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.LoginFrom.resources
+C:\Users\WIN KIET VO\Documents\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.PanelFrom.resources
+C:\Users\WIN KIET VO\Documents\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.Form3.resources
+C:\Users\WIN KIET VO\Documents\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.frmNguoiDung.resources
+C:\Users\WIN KIET VO\Documents\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.frmTinhTien.resources
+C:\Users\WIN KIET VO\Documents\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.frmNhomMay.resources
+C:\Users\WIN KIET VO\Documents\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.frmNguoiDungVip.resources
+C:\Users\WIN KIET VO\Documents\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.frmDichVu.resources
+C:\Users\WIN KIET VO\Downloads\QLQuanNet\QLQuanNet\QLQuanNet\bin\Debug\QLQuanNet.exe.config
+C:\Users\WIN KIET VO\Downloads\QLQuanNet\QLQuanNet\QLQuanNet\bin\Debug\QLQuanNet.exe
+C:\Users\WIN KIET VO\Downloads\QLQuanNet\QLQuanNet\QLQuanNet\bin\Debug\QLQuanNet.pdb
+C:\Users\WIN KIET VO\Downloads\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.csproj.AssemblyReference.cache
+C:\Users\WIN KIET VO\Downloads\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.LoginFrom.resources
+C:\Users\WIN KIET VO\Downloads\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.PanelFrom.resources
+C:\Users\WIN KIET VO\Downloads\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.Form3.resources
+C:\Users\WIN KIET VO\Downloads\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.frmDichVu.resources
+C:\Users\WIN KIET VO\Downloads\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.frmNguoiDungVip.resources
+C:\Users\WIN KIET VO\Downloads\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.frmNhomMay.resources
+C:\Users\WIN KIET VO\Downloads\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.frmTinhTien.resources
+C:\Users\WIN KIET VO\Downloads\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.Properties.Resources.resources
+C:\Users\WIN KIET VO\Downloads\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.csproj.GenerateResource.cache
+C:\Users\WIN KIET VO\Downloads\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.csproj.CoreCompileInputs.cache
+C:\Users\WIN KIET VO\Downloads\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.exe
+C:\Users\WIN KIET VO\Downloads\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.pdb
+C:\Users\WIN KIET VO\Downloads\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.Form6.resources
+C:\Users\WIN KIET VO\Downloads\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.frmChoiGame.resources
+C:\Users\WIN KIET VO\Downloads\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.Form5.resources
+C:\Users\WIN KIET VO\Downloads\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.frmDoAn.resources
+C:\Users\WIN KIET VO\Downloads\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.frmNuocUong.resources
+C:\Users\WIN KIET VO\Downloads\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.frmTheNap.resources
+C:\Users\WIN KIET VO\Downloads\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.Form7.resources
+C:\Users\WIN KIET VO\Downloads\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.frmLichSu.resources
+C:\Users\WIN KIET VO\Desktop\DataGridView\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\bin\Debug\QLQuanNet.exe.config
+C:\Users\WIN KIET VO\Desktop\DataGridView\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\bin\Debug\QLQuanNet.exe
+C:\Users\WIN KIET VO\Desktop\DataGridView\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\bin\Debug\QLQuanNet.pdb
+C:\Users\WIN KIET VO\Desktop\DataGridView\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.csproj.AssemblyReference.cache
+C:\Users\WIN KIET VO\Desktop\DataGridView\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.LoginFrom.resources
+C:\Users\WIN KIET VO\Desktop\DataGridView\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.PanelFrom.resources
+C:\Users\WIN KIET VO\Desktop\DataGridView\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.Form3.resources
+C:\Users\WIN KIET VO\Desktop\DataGridView\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.frmDichVu.resources
+C:\Users\WIN KIET VO\Desktop\DataGridView\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.Form5.resources
+C:\Users\WIN KIET VO\Desktop\DataGridView\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.Form6.resources
+C:\Users\WIN KIET VO\Desktop\DataGridView\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.Form7.resources
+C:\Users\WIN KIET VO\Desktop\DataGridView\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.frmChoiGame.resources
+C:\Users\WIN KIET VO\Desktop\DataGridView\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.frmDoAn.resources
+C:\Users\WIN KIET VO\Desktop\DataGridView\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.frmLichSu.resources
+C:\Users\WIN KIET VO\Desktop\DataGridView\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.frmNguoiDungVip.resources
+C:\Users\WIN KIET VO\Desktop\DataGridView\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.frmNhomMay.resources
+C:\Users\WIN KIET VO\Desktop\DataGridView\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.frmNuocUong.resources
+C:\Users\WIN KIET VO\Desktop\DataGridView\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.frmTheNap.resources
+C:\Users\WIN KIET VO\Desktop\DataGridView\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.frmTinhTien.resources
+C:\Users\WIN KIET VO\Desktop\DataGridView\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.Properties.Resources.resources
+C:\Users\WIN KIET VO\Desktop\DataGridView\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.csproj.GenerateResource.cache
+C:\Users\WIN KIET VO\Desktop\DataGridView\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.csproj.CoreCompileInputs.cache
+C:\Users\WIN KIET VO\Desktop\DataGridView\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.exe
+C:\Users\WIN KIET VO\Desktop\DataGridView\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.pdb
+C:\Users\WIN KIET VO\Desktop\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\bin\Debug\QLQuanNet.exe.config
+C:\Users\WIN KIET VO\Desktop\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\bin\Debug\QLQuanNet.exe
+C:\Users\WIN KIET VO\Desktop\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\bin\Debug\QLQuanNet.pdb
+C:\Users\WIN KIET VO\Desktop\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.csproj.AssemblyReference.cache
+C:\Users\WIN KIET VO\Desktop\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.LoginFrom.resources
+C:\Users\WIN KIET VO\Desktop\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.PanelFrom.resources
+C:\Users\WIN KIET VO\Desktop\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.Form3.resources
+C:\Users\WIN KIET VO\Desktop\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.frmDichVu.resources
+C:\Users\WIN KIET VO\Desktop\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.Form5.resources
+C:\Users\WIN KIET VO\Desktop\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.Form6.resources
+C:\Users\WIN KIET VO\Desktop\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.Form7.resources
+C:\Users\WIN KIET VO\Desktop\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.frmChoiGame.resources
+C:\Users\WIN KIET VO\Desktop\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.frmDoAn.resources
+C:\Users\WIN KIET VO\Desktop\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.frmLichSu.resources
+C:\Users\WIN KIET VO\Desktop\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.frmNguoiDungVip.resources
+C:\Users\WIN KIET VO\Desktop\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.frmNhomMay.resources
+C:\Users\WIN KIET VO\Desktop\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.frmNuocUong.resources
+C:\Users\WIN KIET VO\Desktop\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.frmTheNap.resources
+C:\Users\WIN KIET VO\Desktop\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.frmTinhTien.resources
+C:\Users\WIN KIET VO\Desktop\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.Properties.Resources.resources
+C:\Users\WIN KIET VO\Desktop\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.csproj.GenerateResource.cache
+C:\Users\WIN KIET VO\Desktop\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.csproj.CoreCompileInputs.cache
+C:\Users\WIN KIET VO\Desktop\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.exe
+C:\Users\WIN KIET VO\Desktop\QUẢN LÝ QUÁN NET\QLQuanNet\QLQuanNet\QLQuanNet\QLQuanNet\obj\Debug\QLQuanNet.pdb
